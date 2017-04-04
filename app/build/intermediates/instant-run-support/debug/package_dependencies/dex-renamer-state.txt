@@ -1,0 +1,16 @@
+#Sun Apr 02 22:18:02 CEST 2017
+renamed.4=classes2.dex
+renamed.3=classes5.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+base.4=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f21d04d7d4c293f8a37a14a695983732ed31ed57
+renamed.0=classes4.dex
+base.3=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\YouTubeAndroidPlayerApi_8cf608ea977f3f58224ed10b785c14f7bf57ce45
+base.2=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_1d8fc320b4a132f6c6c2815d0c008e58b4b70b4e
+base.1=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c32c2307f3358629e9038c8b1f0884204eaf50e3
+base.0=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_f611ab2ebd8d7e97b9956da63740389003079d2c
+file.4=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f21d04d7d4c293f8a37a14a695983732ed31ed57\\classes.dex
+file.3=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\YouTubeAndroidPlayerApi_8cf608ea977f3f58224ed10b785c14f7bf57ce45\\classes.dex
+file.2=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_1d8fc320b4a132f6c6c2815d0c008e58b4b70b4e\\classes.dex
+file.1=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c32c2307f3358629e9038c8b1f0884204eaf50e3\\classes.dex
+file.0=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_f611ab2ebd8d7e97b9956da63740389003079d2c\\classes.dex

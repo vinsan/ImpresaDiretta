@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Impresa Diretta</string>
+    <string name="action_settings">Settings</string>
+    <color name="orange">#FFA500</color>
+    <string name="AppLogo">Impresa Diretta</string>
+    <string name="articoli">Articoli</string>
+    <string name="video">Video</string>
+    <string name="scrivici">Scrivici</string>
+    <string name="spazio">Spazio Pubblicitario Disponibile</string>
+    <color name="black">#000000</color>
+    <color name="gold">#FFD700</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
