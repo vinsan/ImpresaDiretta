@@ -1,4 +1,4 @@
-#Sun Apr 02 22:18:03 CEST 2017
+#Thu Jun 15 11:48:27 CEST 2017
 base.0=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_31eb4ccbb432bb6db39ccf81fa7a44d9b23bcd2f
 renamed.1=classes.dex
 renamed.0=classes2.dex
