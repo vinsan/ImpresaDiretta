@@ -1,7 +1,4 @@
-#Thu Jun 15 11:48:27 CEST 2017
-base.0=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_31eb4ccbb432bb6db39ccf81fa7a44d9b23bcd2f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bb73c29058a68927a2dfcb1f80add15e8a70d7b5\\classes.dex
-base.1=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bb73c29058a68927a2dfcb1f80add15e8a70d7b5
-file.0=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_31eb4ccbb432bb6db39ccf81fa7a44d9b23bcd2f\\classes.dex
+#Fri Jun 23 00:53:22 CEST 2017
+base.0=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Vincenzo\\StudioProjects\\ImpresaDiretta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
