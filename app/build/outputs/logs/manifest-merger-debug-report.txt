@@ -25,8 +25,6 @@ MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Vincenzo\.android\b
 		INJECTED from C:\Users\Vincenzo\StudioProjects\ImpresaDiretta\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		ADDED from C:\Users\Vincenzo\StudioProjects\ImpresaDiretta\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from C:\Users\Vincenzo\StudioProjects\ImpresaDiretta\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Vincenzo\StudioProjects\ImpresaDiretta\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\Vincenzo\StudioProjects\ImpresaDiretta\app\src\main\AndroidManifest.xml:10:5-78
 	android:name
